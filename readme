@@ -1,0 +1,15 @@
+Hello react from :
+https://www.typescriptlang.org/docs/handbook/react-&-webpack.html
+
+diff: 
+    tsconfig: cleaned...
+    namecase... hello.tsx
+    outDir: 'built/'
+
+
+Notes:
+# https://webpack.github.io/docs/webpack-dev-server.html
+# sudo npm install webpack-dev-server -g
+
+npm run dev -> localhost:8080/
+
